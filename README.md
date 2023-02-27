@@ -1,6 +1,7 @@
 # Policy-and-Claims-Administration-System-
 
 PAS System Menu Options
+
 1-Create a new Customer Account
 2-Get a policy quote and buy the policy.
 3-Cancel a specific policy (i.e change the expiration date of a policy to an earlier date than originally specified) 
