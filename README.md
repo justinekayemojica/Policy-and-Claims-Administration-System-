@@ -18,3 +18,5 @@ Prompt the user for a menu choice.
 For option #2, prompt the user for the account number of the account containing the relevant policy – a customer account must exist before policy purchase. For option #3, #4, and #6, prompt the user for the specific policy number. For option #5, prompt the user for the first name and last name of the customer to search for (For now we will assume customer names are unique). For option #7, prompt the user for the specific claim number needed.
 Once the user selects an option, perform the action requested by the user on the identified account or policy.
 Repeat steps 1 through 7 until the user has selected the option to exit.
+
+note: ensure jdbc jar file is added on library
